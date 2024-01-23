@@ -2,6 +2,10 @@ body {
     background-color: antiquewhite;
     color: rgb(20, 20, 20);
 }
+main {
+    height: 80%;
+    float: left;
+}
 article div {
     background-color: white;
     color: black;
@@ -32,4 +36,6 @@ article div p {
 footer {
     width: 100%;
     text-align: right;
+    height: 20%;
+    float: left;
 }
