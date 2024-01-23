@@ -1,0 +1,35 @@
+body {
+    background-color: antiquewhite;
+    color: rgb(20, 20, 20);
+}
+article div {
+    background-color: white;
+    color: black;
+    float: left;
+    margin: 10px;
+    height:fit-content;
+    width: 90vh;
+    border: 5px black solid;
+    border-radius: 20px;
+    padding: 10px;
+}
+article div h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 100%;
+}
+article div img {
+    float: right;
+    width: 40%;
+    height: 40%;
+    border: 3px outset black;
+    border-radius: 10px;
+}
+article div p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+}
+footer {
+    width: 100%;
+    text-align: right;
+}
