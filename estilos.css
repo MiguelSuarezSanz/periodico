@@ -49,3 +49,12 @@ footer {
     height: 20%;
     float: left;
 }
+a {
+    border: 2px black solid;
+    background-color: rgb(220, 220, 220);
+    color: blue;
+    text-shadow: 0px 0px 5px aqua;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 2px;
+}
